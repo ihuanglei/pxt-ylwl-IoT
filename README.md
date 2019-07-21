@@ -1,4 +1,4 @@
-# YLWL:IoT [![Build Status]
+# YLWL:IoT [![Build Status]https://travis-ci.org/ihuanglei/pxt-ylwl-IoT.svg?branch=master]()
 
 yuanlaiwangluo.com IoT
 

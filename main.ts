@@ -14,7 +14,7 @@ enum HttpMethod {
     TRACE
 }
 
-//% weight=10 color=#10C43D icon="\uf213" block="YLWL:IoT"
+//% weight=10 color=#0fbc11 icon="\uf213" block="YLWL:IoT"
 namespace ylwl_IoT {
 
     const NEW_LINE: string = '\u000D' + '\u000A'
