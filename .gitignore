@@ -5,4 +5,5 @@ yotta_targets
 pxt_modules
 *.db
 *.tgz
+.DS_Store
 .header.json
